@@ -1,6 +1,6 @@
 [{
   "id": 1,
-  "image":"product-6.jpg" ,
+  "image":"https://raw.githubusercontent.com/Adelsherif/productsApi/master/product-6.jpg" ,
   "incart": 0,
   "name": "Watches",
   "mark": "Xiaomi Mi Band 5",
