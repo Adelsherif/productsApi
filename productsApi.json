@@ -1,7 +1,7 @@
 [
   {
   "id": 1,
-  "image": "https://raw.githubusercontent.com/Adelsherif/productsApi/master/product-6.jpg",
+  "image": "https://raw.githubusercontent.com/Adelsherif/productsApi/master/product-1.jpg",
   "incart": 0,
   "name": "Watches",
   "mark": "Xiaomi Mi Band 5",
@@ -13,7 +13,7 @@
 },
   {
   "id": 2,
-  "image": "https://raw.githubusercontent.com/Adelsherif/productsApi/master/product-6.jpg",
+  "image": "https://raw.githubusercontent.com/Adelsherif/productsApi/master/product-2.jpg",
   "incart": 0,
   "name": "Speaker",
   "mark": "Big Power Sound Speaker",
@@ -26,7 +26,7 @@
 },
   {
   "id": 3,
-  "image": "https://raw.githubusercontent.com/Adelsherif/productsApi/master/product-6.jpg",
+  "image": "https://raw.githubusercontent.com/Adelsherif/productsApi/master/product-3.jpg",
   "incart": 0,
   "name": "Camera",
   "mark": "WiFi Security Camera",
@@ -38,7 +38,7 @@
 },
   {
   "id": 4,
-  "image": "https://raw.githubusercontent.com/Adelsherif/productsApi/master/product-6.jpg",
+  "image": "https://raw.githubusercontent.com/Adelsherif/productsApi/master/product-4.jpg",
   "incart": 0,
   "name": "Phones",
   "mark": "iphone 6x plus",
@@ -51,7 +51,7 @@
 },
   {
   "id": 5,
-  "image": "https://raw.githubusercontent.com/Adelsherif/productsApi/master/product-6.jpg",
+  "image": "https://raw.githubusercontent.com/Adelsherif/productsApi/master/product-5.jpg",
   "incart": 0,
   "name": "Headphones",
   "mark": "Wireless Headphones",
@@ -75,7 +75,7 @@
 },
   {
   "id": 7,
-  "image": "https://raw.githubusercontent.com/Adelsherif/productsApi/master/product-6.jpg",
+  "image": "https://raw.githubusercontent.com/Adelsherif/productsApi/master/product-7.jpg",
   "incart": 0,
   "name": "Headphones",
   "mark": "PX7 Wireless Headphones",
@@ -88,7 +88,7 @@
 },
   {
   "id": 8,
-  "image": "https://raw.githubusercontent.com/Adelsherif/productsApi/master/product-6.jpg",
+  "image": "https://raw.githubusercontent.com/Adelsherif/productsApi/master/product-8.jpg",
   "incart": 0,
   "name": "Labtop",
   "mark": "Apple MacBook Air",
