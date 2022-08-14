@@ -10,5 +10,92 @@
   "top": 0,
   "best": 1,
   "arrivals": 0
+},
+  {
+  "id": 2,
+  "image": "https://raw.githubusercontent.com/Adelsherif/productsApi/master/product-6.jpg",
+  "incart": 0,
+  "name": "Speaker",
+  "mark": "Big Power Sound Speaker",
+  "price": 125,
+  "sale": 25,
+  "offer": 0,
+  "top": 1,
+  "best": 0,
+  "arrivals": 0
+},
+  {
+  "id": 3,
+  "image": "https://raw.githubusercontent.com/Adelsherif/productsApi/master/product-6.jpg",
+  "incart": 0,
+  "name": "Camera",
+  "mark": "WiFi Security Camera",
+  "price": 68,
+  "offer": 1,
+  "top": 1,
+  "best": 0,
+  "arrivals": 1
+},
+  {
+  "id": 4,
+  "image": "https://raw.githubusercontent.com/Adelsherif/productsApi/master/product-6.jpg",
+  "incart": 0,
+  "name": "Phones",
+  "mark": "iphone 6x plus",
+  "price": 150,
+  "new": "new",
+  "offer": 0,
+  "top": 0,
+  "best": 1,
+  "arrivals": 0
+},
+  {
+  "id": 5,
+  "image": "https://raw.githubusercontent.com/Adelsherif/productsApi/master/product-6.jpg",
+  "incart": 0,
+  "name": "Headphones",
+  "mark": "Wireless Headphones",
+  "price": 180,
+  "offer": 0,
+  "top": 0,
+  "best": 0,
+  "arrivals": 1
+},
+  {
+  "id": 6,
+  "image": "https://raw.githubusercontent.com/Adelsherif/productsApi/master/product-6.jpg",
+  "incart": 0,
+  "name": "Speaker",
+  "mark": "Mini Bluetooth Speaker",
+  "price": 265,
+  "offer": 1,
+  "top": 1,
+  "best": 0,
+  "arrivals": 0
+},
+  {
+  "id": 7,
+  "image": "https://raw.githubusercontent.com/Adelsherif/productsApi/master/product-6.jpg",
+  "incart": 0,
+  "name": "Headphones",
+  "mark": "PX7 Wireless Headphones",
+  "price": 144,
+  "sale": 50,
+  "offer": 0,
+  "top": 0,
+  "best": 1,
+  "arrivals": 0
+},
+  {
+  "id": 8,
+  "image": "https://raw.githubusercontent.com/Adelsherif/productsApi/master/product-6.jpg",
+  "incart": 0,
+  "name": "Labtop",
+  "mark": "Apple MacBook Air",
+  "price": 499,
+  "offer": 1,
+  "top": 0,
+  "best": 0,
+  "arrivals": 1
 }
 ]
