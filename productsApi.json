@@ -1,6 +1,6 @@
 [{
   "id": 1,
-  "image": `${require('./product-6.jpg')}`,
+  "image":"" ,
   "incart": 0,
   "name": "Watches",
   "mark": "Xiaomi Mi Band 5",
